@@ -4,6 +4,7 @@
 ## Sobre
 - Criar uma aplicação na camada Front-end com ReactJS para consumir a API Back-end Node.js desenvolvida no desafio anterior. A aplicação deverá ser capaz de listar, adicionar e remover repositórios
   - [Desafio 02 - Conceitos do Node.js](https://github.com/fabiosvf/bootcamp-gostack-11-desafio-02-conceitos-do-node-js)
+- [Instruções para o Desafio](docs/Desafio%2003%20-%20Instru%C3%A7%C3%B5es.pdf)
 
 ---
 
